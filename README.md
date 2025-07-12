@@ -46,3 +46,5 @@ Script saved as: `day1_tokenization_practice.py`
 #### ▶️ How to Run:
 ```bash
 streamlit run tokenizer_app.py
+
+Demo Link: https://nlpjourney-dmfbvdz4yalksm8mypn89g.streamlit.app/
