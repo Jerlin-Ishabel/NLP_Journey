@@ -40,6 +40,9 @@ Script saved as: `day1_tokenization_practice.py`
   - Total word count
 - Simple UI using Streamlit
 
+ 
+ ### Demo Link: https://nlpjourney-dmfbvdz4yalksm8mypn89g.streamlit.app/
+
 #### 📂 Files:
 - `tokenizer_app.py`
 
@@ -47,4 +50,5 @@ Script saved as: `day1_tokenization_practice.py`
 ```bash
 streamlit run tokenizer_app.py
 
-Demo Link: https://nlpjourney-dmfbvdz4yalksm8mypn89g.streamlit.app/
+
+
